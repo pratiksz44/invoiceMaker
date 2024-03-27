@@ -118,22 +118,6 @@ def save():
 
 
 
-    
-
-
-
-
-
-        
-
-
-
-
-    
-
-
-
-
 window = tkinter.Tk()
 window.title("Raj Engg Invoice Generator")
 
